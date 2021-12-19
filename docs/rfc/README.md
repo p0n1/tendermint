@@ -46,5 +46,6 @@ sections.
 - [RFC-006: Event Subscription](./rfc-006-event-subscription.md)
 - [RFC-007: Deterministic Proto Byte Serialization](./rfc-007-deterministic-proto-bytes.md)
 - [RFC-008: Don't Panic](./rfc-008-don't-panic.md)
+- [RFC-008: Node-Application Communication in ABCI++](./rfc-008-abci-transport.md)
 
 <!-- - [RFC-NNN: Title](./rfc-NNN-title.md) -->
